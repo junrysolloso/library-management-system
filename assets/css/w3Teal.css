@@ -1,0 +1,175 @@
+.w3-theme-l5 {color:#000 !important; background-color:#e9fffd !important}
+.w3-theme-l4 {color:#000 !important; background-color:#b7fff8 !important}
+.w3-theme-l3 {color:#000 !important; background-color:#6efff1 !important}
+.w3-theme-l2 {color:#000 !important; background-color:#26ffe9 !important}
+.w3-theme-l1 {color:#fff !important; background-color:#00dcc6 !important}
+.w3-theme-d1 {color:#fff !important; background-color:#008578 !important}
+.w3-theme-d2 {color:#fff !important; background-color:#00766a !important}
+.w3-theme-d3 {color:#fff !important; background-color:#00685d !important}
+.w3-theme-d4 {color:#fff !important; background-color:#005950 !important}
+.w3-theme-d5 {color:#fff !important; background-color:#004a43 !important}
+
+.w3-theme-light {color:#000 !important; background-color:#e9fffd !important}
+.w3-theme-dark {color:#fff !important; background-color:#004a43 !important}
+.w3-theme-action {color:#fff !important; background-color:#004a43 !important}
+
+.w3-theme {color:#fff !important; background-color:#009688 !important}
+.w3-text-theme {color:#009688 !important}
+.w3-theme-border {border-color:#009688 !important}
+
+/* Custome */
+body {
+  font-family: Helvetica, Arial, sans-serif;
+  background-image: url(../../upload/gallery/content.jpg);
+  background-size: cover;
+  background-attachment: fixed;
+}
+input[type="search"] {
+  width: 180px !important;
+  height: 20px;
+  color: #000;
+}
+input.form-control,
+select.form-control {
+  border-radius: 0px;
+}
+.w3-card, .w3-card-2, .w3-card-3, .w3-card-12, .w3-card-4, .w3-card-8, div.panel-body>span.w3-tag {
+  background: rgba(9, 8, 4, 0.8);
+}
+.w3-white {
+  background: rgba(9, 8, 4, 0.8) !important;
+}
+.w3-white a {
+  color: #fff;
+}
+table.table-hover tr:hover {
+  background: rgba(255, 255, 255, 0.2);
+}
+table th {
+  background: rgba(255, 255, 255, 0.4);
+}
+.w3-container h3, table, span, label {
+  color: #fff;
+}
+.popover, .popover-title {
+  color: #000 !important
+}
+.popover h3 {
+  color: #000 !important
+}
+.popover table {
+  color: #000 !important
+}
+.fixed-bottom {
+  position: fixed;
+}
+.datepicker table {
+  color: #000 !important;
+}
+.w3-container .form-absolute {
+  position: relative !important;
+}
+.box {
+  border: 2px solid rgba(255, 255, 255, 0.4);
+  background: rgba(0, 0, 0, 0.6);
+  color: #fff;
+  font-weight: bold;
+}
+/* body {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  background-image: url(../../upload/content.jpg);
+  background-size: cover;
+  background-attachment: fixed;
+}
+header {
+  background: transparent;
+}
+footer {
+  background: transparent;
+}
+h2, h5, small, h3, h4, h6, h1 {
+  color: #fff !important
+}
+input[type="search"] {
+  width: 150px !important;
+  height: 24px
+}
+input.form-control {
+  border-radius: 0px;
+}
+td>input.form-control {
+  background: transparent;
+  border: 1px solid #2196F3
+}
+li.paginate_button a {
+  border-radius: 0px !important;
+}
+ul.nav-tabs > li a.w3-light-grey {
+  border-top: 5px solid #2196F3;
+}
+.panel, .panel-heading {
+  border-radius: 0px;
+  border: 0px solid #000;
+}
+.w3-sidenav, .w3-card, .w3-card-2, .w3-card-3, .w3-card-4, .w3-card-8, div.panel-body>span.w3-tag {
+  background-image: url(../../upload/bg-content.png);
+}
+div.w3-top {
+  background: #2196F3;
+}
+div.panel-body>span.w3-tag {
+  color: #000
+}
+footer {
+  margin-top: 0px
+}
+.modal {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+.margin-bot {
+  margin-bottom: 80px
+}
+.modal-body, .modal-header, .modal-footer {
+	background-image: url(../../upload/bg-content.png);
+}
+.modal-header, .modal-footer {
+	text-align: center;
+}
+div.modal-header h3,
+div.modal-body h4,
+div.modal-footer h5 {
+  color: #000 !important;
+  text-align: center;
+  font-size: 16px;
+}
+.nav-tabs>li a {
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+}
+div.panel-heading>span.w3-badge {
+  float: right;
+  position: absolute;
+  top: -8%;
+  left: 88%;
+}
+li>span.w3-tag {
+  float: right;
+  position: absolute;
+  top: -46%;
+  left: 46%;
+}
+nav.w3-sidenav>a {
+  padding-left: 30px;
+  border-bottom: 1px solid #ddd;
+  text-transform: uppercase;
+}
+td>span.w3-tag {
+  border-radius: 0px;
+  padding: 2px 6px 2px 6px;
+}
+.tab-pane>form {
+  position: absolute;
+}
+div.w3-top > a:hover {
+  text-decoration: none;
+} */

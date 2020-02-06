@@ -1,0 +1,10 @@
+TRUNCATE TABLE `info_book`;
+TRUNCATE TABLE `info_bookaut`;
+TRUNCATE TABLE `info_bookjunc`;
+TRUNCATE TABLE `info_booklost`;
+TRUNCATE TABLE `info_bookpub`;
+TRUNCATE TABLE `info_bookyear`;
+TRUNCATE TABLE `info_borrower`;
+TRUNCATE TABLE `info_borrowerjunc`;
+TRUNCATE TABLE `info_borrowedjunc`;
+TRUNCATE TABLE `info_borrowed`;
